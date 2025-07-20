@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+    "timestamp": "2023-11-15T08:00:00.000Z",
+    "power": 102.34,
+    "voltage": 28.45,
+    "temperature": 22.56
+  },
+  {
+    "id": "2b3c4d5e-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+    "timestamp": "2023-11-15T08:00:01.000Z",
+    "power": 101.89,
+    "voltage": 28.52,
+    "temperature": 22.61
+  },
+  {
+    "id": "3c4d5e6f-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+    "timestamp": "2023-11-15T08:00:02.000Z",
+    "power": 103.12,
+    "voltage": 28.39,
+    "temperature": 22.48
+  },
+  {
+    "id": "4d5e6f7g-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+    "timestamp": "2023-11-15T08:00:03.000Z",
+    "power": 102.76,
+    "voltage": 28.41,
+    "temperature": 22.53
+  },
+  {
+    "id": "5e6f7g8h-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+    "timestamp": "2023-11-15T08:00:04.000Z",
+    "power": 101.45,
+    "voltage": 28.56,
+    "temperature": 22.67
+  },
+  {
+    "id": "6f7g8h9i-0j1k-2l3m-4n5o-6p7q8r9s0t1u",
+    "timestamp": "2023-11-15T08:00:05.000Z",
+    "power": 72.18,
+    "voltage": 28.32,
+    "temperature": 22.42
+  },
+  {
+    "id": "7g8h9i0j-1k2l-3m4n-5o6p-7q8r9s0t1u2v",
+    "timestamp": "2023-11-15T08:00:06.000Z",
+    "power": 102.91,
+    "voltage": 28.44,
+    "temperature": 22.58
+  },
+  {
+    "id": "8h9i0j1k-2l3m-4n5o-6p7q-8r9s0t1u2v3w",
+    "timestamp": "2023-11-15T08:00:07.000Z",
+    "power": 103.24,
+    "voltage": 28.38,
+    "temperature": 22.49
+  },
+  {
+    "id": "9i0j1k2l-3m4n-5o6p-7q8r-9s0t1u2v3w4x",
+    "timestamp": "2023-11-15T08:00:08.000Z",
+    "power": 101.67,
+    "voltage": 28.51,
+    "temperature": 22.63
+  },
+  {
+    "id": "0j1k2l3m-4n5o-6p7q-8r9s-0t1u2v3w4x5y",
+    "timestamp": "2023-11-15T08:00:09.000Z",
+    "power": 102.33,
+    "voltage": 28.42,
+    "temperature": 22.55
+  },
+  {
+    "id": "1k2l3m4n-5o6p-7q8r-9s0t-1u2v3w4x5y6z",
+    "timestamp": "2023-11-15T08:00:10.000Z",
+    "power": 145.67,
+    "voltage": 28.78,
+    "temperature": 22.89
+  }
+]
