@@ -506,32 +506,6 @@ const GlobleWitheSatellite = () => {
                                 <li>• Scroll: Zoom in/out</li>
                             </ul>
                         </div>
-                        {/* <h2 className="text-xl font-semibold mb-4">Satellite Information</h2>
-
-                        {hoveredSatellite ? (
-                            <div className="bg-gray-700 rounded-lg p-4 mb-4 transition-all duration-300">
-                                <div className="flex items-center mb-3">
-                                    <div className="w-3 h-3 rounded-full mr-2" style={{ backgroundColor: satellites.find(s => s.name === hoveredSatellite.name)?.color }}></div>
-                                    <h3 className="text-lg font-semibold">{hoveredSatellite.name}</h3>
-                                </div>
-
-                                <div className="space-y-2">
-                                    <p><span className="text-gray-400">NORAD ID:</span> {hoveredSatellite.norad_id}</p>
-                                    <p><span className="text-gray-400">Agency:</span> {hoveredSatellite.agency}</p>
-                                    <p><span className="text-gray-400">Position:</span>
-                                        <br />
-                                        Lat: {hoveredSatellite.position.lat.toFixed(2)}°
-                                        <br />
-                                        Lon: {hoveredSatellite.position.lon.toFixed(2)}°
-                                        <br />
-                                        Alt: {hoveredSatellite.position.alt} km
-                                    </p>
-                                </div>
-                            </div>
-                        ) : (
-                            <p className="text-gray-400 italic">Hover over a satellite to view details</p>
-                        )} */}
-
                         <h3 className="text-lg font-semibold mt-6 mb-3">Tracked Satellites</h3>
                         <div className="space-y-3">
                             {satellites.map(satellite => (
